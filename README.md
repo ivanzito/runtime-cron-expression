@@ -12,3 +12,4 @@ curl http://localhost:8080/api/jobs
 
 curl -X DELETE http://localhost:8080/api/jobs/job-name
 ```
+Para executar a aplicação execute a classe WebInitializer.
